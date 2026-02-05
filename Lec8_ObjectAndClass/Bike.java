@@ -1,4 +1,4 @@
-package lec8;
+package Lec8_ObjectAndClass;
 
 public class Bike {
     Bike(){System.out.println("Bike is created");}

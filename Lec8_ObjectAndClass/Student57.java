@@ -1,4 +1,4 @@
-package Lec8;
+package Lec8_ObjectAndClass;
 
 class Student57 {
 
